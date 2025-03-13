@@ -1,0 +1,29 @@
+.full{
+    color:aliceblue;
+    background-color: #000000;
+}
+
+#count{
+    text-decoration: underline 0.1px;
+    text-underline-offset: 10px;
+    font-size: larger;
+}
+.buttons{
+    width: 7vw;
+    height: 4vh;
+}
+
+#Clearbtn {
+color: white;
+background-color: #0000;
+border: 0.1px solid white;
+}
+
+#error{
+    color: red;
+    display: none;
+}
+#heading{
+   font-size: 60px;
+   font-family: "Roboto", sans-serif;
+}
